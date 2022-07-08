@@ -1,0 +1,31 @@
+
+body{
+      background-color: hsl(212, 45%, 89%);
+      text-align: center;
+      /* font-family: Outfit; */
+}
+#container{
+      height: 27em;
+      width: 15em;
+      padding: 0.5em;
+      text-align: center;
+      border-radius: 10px;
+      background-color: hsl(0, 0%, 100%);
+      margin: 3em 20em;
+
+}
+#container img{
+      height: 15em;
+      width: 14em;
+      border-radius: 10px;
+}
+h1{
+      font-family: Outfit;
+      color: hsl(218, 44%, 22%);
+}
+p{
+      font-family: Outfit;
+      font-size: 15px;
+      color: hsl(220, 15%, 55%);
+      padding-bottom: 1em;
+}
